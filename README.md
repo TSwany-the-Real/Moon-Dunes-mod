@@ -35,4 +35,4 @@ Literally just needed a place to store my minecraft mod (made with mcreator beca
 	. Added the lunar dimension, with three biomes: Lunar Dunes, the Dark Side, and the Lunar Ice Caps. Not ideal for those afraid of the dark!
 	. Added the astronaut's helmet— don't forget it on your journey; in the vacuum of space, no one will hear you choke
 
-*Desert heat is not a feature and will not be implemented
+*Desert heat is not a feature and will not be implemented 
